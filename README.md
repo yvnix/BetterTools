@@ -1,0 +1,2 @@
+# BetterTools
+Minecraft tools plugin.
